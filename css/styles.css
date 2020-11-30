@@ -10078,7 +10078,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: var(--text-primary-hover-color);
+  background-color: var(--text-primary-color);
 }
 
 .dev-icons {
